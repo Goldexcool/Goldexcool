@@ -1,6 +1,4 @@
 # 💫About Me :
-<h1 align="center">Hey 🙏, I'm Goldexcool</h1>
-<h3 align="center">A 19# 💫 About Me:
 <h1 align="center">Hello 🙏, I'm Goldexcool</h1>
 <h3 align="center">I am a 19-year-old Full Stack Developer based in Nigeria</h3>
 
