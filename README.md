@@ -1,5 +1,5 @@
 # 💫About Me :
-<h1 align="center">Hello 🙏, I'm Goldexcool</h1>
+<h1 align="center">Hello 🙏, I'm Gold</h1>
 <h3 align="center">I am a 19-year-old Full Stack Developer based in Nigeria</h3>
 
 - 👨‍💻 You can explore all of my projects at [https://github.com/Goldexcool]
